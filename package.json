@@ -1,0 +1,27 @@
+{
+  "name": "thekingofstaking",
+  "version": "1.0.0",
+  "description": "The Knpming Of Meme",
+  "main": "index.js",
+  
+    "scripts": {
+      "dev": "next dev",
+      "build": "next build",
+      "start": "next start",
+      "lint": "next lint"
+    },
+  
+  "author": "chokote",
+  "license": "ISC",
+  "dependencies": {
+    "framer-motion": "^11.2.10",
+    "next": "^14.2.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.4"
+  }
+}
